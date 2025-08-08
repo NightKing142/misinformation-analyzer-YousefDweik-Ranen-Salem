@@ -1,0 +1,15 @@
+# Python / PyCharm specific files
+.idea/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node.js / React specific files
+node_modules/
+build/
+.DS_Store
+npm-debug.log
+
+# Secret files - VERY IMPORTANT
+.env
